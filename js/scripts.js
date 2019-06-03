@@ -1,3 +1,6 @@
 
 
-console.log('ok')
+
+//Page Headings
+
+$('h1').lettering();

@@ -5,6 +5,34 @@
 * Outline Elements
  */
 
- * {
-     outline: 1px dotted  blue;
+
+
+ /* Global. Site. Universal. */
+ h1 {
+    font-size: 5em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  h1 span:nth-child(even) {
+    color: thistle;
+  }
+
+ /* Homepage */
+ .home {
+     background: teal;
  }
+
+ /* Bio */
+ .bio {
+    background: turquoise;
+}
+
+/* Contact */
+.contact {
+    background: thistle;
+}
+
+.contact h1 {
+
+}
