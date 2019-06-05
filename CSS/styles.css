@@ -33,6 +33,9 @@
     background: thistle;
 }
 
-.contact h1 {
-
+/* Portfolio */
+figure {
+  width: 200px;
+  padding: 1em;
+  background: #c0ffee;
 }
